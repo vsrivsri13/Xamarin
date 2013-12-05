@@ -1,0 +1,1 @@
+XamarinStarter.MainActivity;xamarinstarter.MainActivity

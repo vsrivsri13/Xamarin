@@ -1,0 +1,13 @@
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\bin\Debug\XamarinStarter.dll
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\bin\Debug\XamarinStarter.pdb
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\bin\Debug\XamarinStarter.dll.mdb
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\bin\Debug\XamarinStarter.XamarinStarter.apk
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\bin\Debug\XamarinStarter.XamarinStarter-Signed.apk
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\XamarinStarter.dll
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\XamarinStarter.pdb
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\android\bin\XamarinStarter.XamarinStarter.apk
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\res\layout\main.xml
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\res\values\strings.xml
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\res\drawable\icon.png
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\R.cs.flag
+C:\Users\vvanka\Documents\GitHub\Xamarin\XamarinStarter\XamarinStarter\obj\Debug\uploadflags.txt
